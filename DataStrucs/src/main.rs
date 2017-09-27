@@ -11,6 +11,7 @@ struct Line {
     start: Point,
     end: Point,
 }
+
 fn structures() {
     let p = Point { x: 3.0, y: 4.0 };
     println!("Point p is at ({}, {})", p.x, p.y);

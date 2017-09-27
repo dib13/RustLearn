@@ -1,0 +1,6 @@
+[package]
+name = "slices_learn"
+version = "0.1.0"
+authors = ["dib13 <31906180+dib13@users.noreply.github.com>"]
+
+[dependencies]
